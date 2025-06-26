@@ -28,6 +28,8 @@ Libraries: qrcode, Pillow (PIL), Tkinter
 Image Output: .png
 
 📝 Use Cases:
+
+
 Product packaging with QR links
 
 Business cards with embedded brand logos
