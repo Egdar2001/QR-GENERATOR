@@ -37,3 +37,10 @@ Business cards with embedded brand logos
 Event promotions or digital contact sharing
 
 Branded QR codes for websites or portfolios
+
+
+▶️ How to Run This Program
+
+pip install requirements.txt
+
+RUN: python qr_generator.py
