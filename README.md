@@ -4,6 +4,8 @@ The application accepts any text or URL input and generates a scannable QR code 
 
 
 🚀 Features:
+
+
 ✅ Generate QR Codes from any text or URL.
 
 🖼️ Embed a Logo at the center of the QR code (e.g., company logo or avatar).
