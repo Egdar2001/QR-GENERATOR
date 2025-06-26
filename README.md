@@ -19,6 +19,8 @@ The application accepts any text or URL input and generates a scannable QR code 
 📱 Scannable QR Codes using any QR reader app or camera.
 
 🔧 Tech Stack:
+
+
 Language: Python
 
 Libraries: qrcode, Pillow (PIL), Tkinter
