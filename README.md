@@ -1,0 +1,3 @@
+This is a Python-based desktop application that allows users to generate custom QR codes with an optional logo embedded at the center. Built with the powerful qrcode and Pillow libraries, and featuring an intuitive GUI built using Tkinter, this tool is ideal for businesses, personal branding, and marketing purposes where QR codes with logos are often used on product packaging, business cards, websites, or flyers.
+
+The application accepts any text or URL input and generates a scannable QR code with high error correction, ensuring the logo overlay does not affect readability. Users can instantly preview the generated QR code and save it as a .png file with just one click.
